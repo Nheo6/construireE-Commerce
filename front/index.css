@@ -1,0 +1,12 @@
+a, a:hover {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}
+
+.min-height-img {
+  max-height: 140px;
+}
+
+.cart-align {
+  align-self: center;
+}
